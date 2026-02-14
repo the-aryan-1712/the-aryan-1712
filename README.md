@@ -11,7 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Aryan;IIT+Kanpur+Student;I+love+Coding+and+Music;Always+Learning+Always+Building;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/the-aryan-1712/the-aryan-1712/animations/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/the-aryan-1712/the-aryan-1712/blob/1bce85eff7a38a0ce42718fc19cb4548528749fe/animations/github-contribution-grid-snake-dark.svg)
+
 > "I build systems that learn, adapt, and optimize."
 </div>
 I am deeply interested in:
