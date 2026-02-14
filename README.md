@@ -24,88 +24,38 @@ I am deeply interested in:
 
 ---
 
-# 🧪 Research Direction
 
-Currently exploring:
 
-- Policy Optimization Methods  
-- Value-based & Actor-Critic Algorithms  
-- Sample-efficient RL  
-- Model-based learning  
-- AI system reliability  
-
-Goal: Contribute to research in intelligent autonomous decision systems.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-C++ • Python • JavaScript • SQL
-
-### AI/ML
-PyTorch • TensorFlow • NumPy • Pandas • OpenAI Gym
-
-### Systems
-Linux • Git • Docker • Networking Basics
-
----
-
+<details>
+<summary><h3>🧠 Hidden RL Experiment Visualizer</h3></summary>
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark)
+### 🎯 Policy Training Simulation
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=chartreuse_dark)
+<img src="https://quickchart.io/chart?c={
+type:'line',
+data:{
+labels:[0,10,20,30,40,50,60,70,80,90,100],
+datasets:[{
+label:'Episode Reward',
+data:[-200,-150,-80,-40,-10,20,50,75,90,110,120]
+}]
+},
+options:{
+scales:{
+y:{title:{display:true,text:'Reward'}},
+x:{title:{display:true,text:'Episodes'}}
+}
+}
+}" width="600"/>
 
 </div>
 
----
-
-# 📈 Contribution Graph (3D)
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" width="90%">
-</div>
-
----
-
-# 🧩 Portfolio
-
-<details>
-<summary><h3>Selected Projects</h3></summary>
-
-| Area | Projects |
-|------|----------|
-| 🤖 Reinforcement Learning | (Add your RL repos here) |
-| 🧠 Deep Learning | (Add your DL repos here) |
-| 💻 Systems & Tools | (Add your systems projects here) |
-| 🏆 Competitive Programming | (Add CP repos if any) |
+> Simulated reward growth during policy optimization.
 
 </details>
 
----
-
-# 🎁 Easter Egg
-
-<details>
-<summary><h3>For the curious mind 🕵️‍♂️</h3></summary>
-
-<h2 align="center">🔐 RSA Key Pair Generator</h2>
-
-[![Generate RSA Keys](https://read-me-tasks.vercel.app/generate-keys)](https://read-me-tasks.vercel.app/)
-
-</details>
-
----
-
-# 🚀 Open To
-
-✔ Research collaborations  
-✔ AI/ML internships  
-✔ Open-source contributions  
-✔ Academic discussions  
-✔ Remote opportunities  
 
 ---
 
