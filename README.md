@@ -11,7 +11,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Aryan;IIT+Kanpur+Student;Reinforcement+Learning+Researcher;Deep+Learning+Engineer;Building+Intelligent+Systems;Always+Learning+Always+Building;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Aryan;IIT+Kanpur+Student;I+love+Coding+and+Music;Always+Learning+Always+Building;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
 
 </div>
 
