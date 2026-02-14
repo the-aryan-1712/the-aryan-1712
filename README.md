@@ -3,8 +3,6 @@
 #                                      #
 #              Aryan                   #
 #                                      #
-#        IIT Kanpur | 2026             #
-#     Reinforcement Learning | AI      #
 ########################################
 -->
 
@@ -13,19 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Aryan;IIT+Kanpur+Student;I+love+Coding+and+Music;Always+Learning+Always+Building;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
 
-</div>
-
----
-
-# 🧠 About Me
-
-🎓 Student at **IIT Kanpur**  
-📚 Academic focus: **Reinforcement Learning & Deep Learning**  
-💻 Building intelligent systems and scalable software  
-🔬 Passionate about making machines learn efficiently  
 
 > "I build systems that learn, adapt, and optimize."
-
+</div>
 I am deeply interested in:
 - Reinforcement Learning
 - Deep Learning
@@ -62,13 +50,6 @@ Linux • Git • Docker • Networking Basics
 
 ---
 
-# 🐍 Contribution Activity
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
