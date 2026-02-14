@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=800&lines=Hi+I'm+Aryan;Full+Stack+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=800&lines=Hi+I'm+Aryan;Student+at+IIT+Kanpur;I+love+Coding+and+Music)](https://git.io/typing-svg)
