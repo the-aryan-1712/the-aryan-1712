@@ -33,28 +33,14 @@ I am deeply interested in:
 
 ### 🎯 Policy Training Simulation
 
-<img src="https://quickchart.io/chart?c={
-type:'line',
-data:{
-labels:[0,10,20,30,40,50,60,70,80,90,100],
-datasets:[{
-label:'Episode Reward',
-data:[-200,-150,-80,-40,-10,20,50,75,90,110,120]
-}]
-},
-options:{
-scales:{
-y:{title:{display:true,text:'Reward'}},
-x:{title:{display:true,text:'Episodes'}}
-}
-}
-}" width="600"/>
+<img src="https://quickchart.io/chart?width=600&height=300&c=%7Btype%3A'line'%2Cdata%3A%7Blabels%3A%5B0%2C10%2C20%2C30%2C40%2C50%2C60%2C70%2C80%2C90%2C100%5D%2Cdatasets%3A%5B%7Blabel%3A'Episode%20Reward'%2Cdata%3A%5B-200%2C-150%2C-80%2C-40%2C-10%2C20%2C50%2C75%2C90%2C110%2C120%5D%7D%5D%7D%7D" />
 
 </div>
 
 > Simulated reward growth during policy optimization.
 
 </details>
+
 
 
 ---
