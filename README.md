@@ -15,12 +15,16 @@
 
 "I build systems that learn, adapt, and optimize."
 </div>
-I am deeply interested in:
-- Reinforcement Learning
-- Deep Learning
-- Optimization & Mathematical Modeling
-- Secure and scalable system design
-- Research-oriented software engineering
+<div align="center">
+
+## Research Interests
+
+![RL](https://img.shields.io/badge/Reinforcement-Learning-00FF00?style=for-the-badge)
+![DL](https://img.shields.io/badge/Deep-Learning-003300?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-00AA00?style=for-the-badge)
+![Secure Systems](https://img.shields.io/badge/Secure-Systems-006600?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-Engineering-004400?style=for-the-badge)
+</div>
 
 ---
 
@@ -43,7 +47,7 @@ I am deeply interested in:
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <div align="center">
 
